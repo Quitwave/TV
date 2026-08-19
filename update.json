@@ -1,7 +1,7 @@
 {
-  "versionCode": 1001,
-  "versionName": "1.0.1",
+  "versionCode": 1002,
+  "versionName": "1.0.2",
   "url": "https://raw.githubusercontent.com/Quitwave/TV/main/FamilyTV_New_release-java32.apk",
-  "message": "1. 新增 APK 自动更新\n2. 应用更名为家庭影视TV",
+  "message": "1. 更新地址已内置，无需手动填写\n2. 应用更名为家庭影视TV",
   "force": false
 }

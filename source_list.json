@@ -1,1 +1,10 @@
-{"version":1,"sources":[{"name":"家庭聚合源","api":"https://raw.githubusercontent.com/Quitwave/TV/main/family-config.json","live":"https://raw.githubusercontent.com/Quitwave/TV/main/family-config.json"}]}
+{
+  "version": 2,
+  "sources": [
+    {
+      "name": "全网聚合源",
+      "api": "https://raw.githubusercontent.com/Quitwave/TV/main/family-config-all.json",
+      "live": "https://raw.githubusercontent.com/Quitwave/TV/main/family-config-all.json"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "versionCode": 1003,
-  "versionName": "1.0.3",
-  "url": "https://raw.githubusercontent.com/Quitwave/TV/main/FamilyTV_New_release-java32.apk",
-  "message": "1. 聚合源已内置，无需手动填写\n2. 更新地址已内置\n3. 设置页显示更清晰",
+  "versionCode": 1004,
+  "versionName": "1.0.4",
+  "url": "https://raw.githubusercontent.com/Quitwave/TV/main/FamilyTV_New_v1.0.4_release-java32.apk",
+  "message": "1. 新增全网聚合源：家庭影视4站 + 九三州8站 + tvyuan采集10站，共22站\n2. 直播源同步扩充到13组\n3. 聚合源与更新地址均已内置，无需手动填写",
   "force": false
 }

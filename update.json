@@ -1,1 +1,7 @@
-{"versionCode":1004,"versionName":"1.0.4","url":"https://raw.githubusercontent.com/Quitwave/TV/main/FamilyTV_New_release-java32.apk","message":"更新弹窗测试，请取消","force":false}
+{
+  "versionCode": 1003,
+  "versionName": "1.0.3",
+  "url": "https://raw.githubusercontent.com/Quitwave/TV/main/FamilyTV_New_release-java32.apk",
+  "message": "1. 聚合源已内置，无需手动填写\n2. 更新地址已内置\n3. 设置页显示更清晰",
+  "force": false
+}
